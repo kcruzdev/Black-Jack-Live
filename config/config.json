@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "zbvzvrbo9d42ltbg",
-    "password": "ifetfj21l80zn6ff",
-    "database": "fvlwmdscxj9zvkcw",
-    "host": "l6slz5o3eduzatkw.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "username": "root",
+    "password": "1234",
+    "database": "blackjack_db",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
