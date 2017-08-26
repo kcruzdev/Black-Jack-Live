@@ -23,7 +23,7 @@ module.exports = function(app){
         if (dbblackjack === null){
           res.json("Error wrong login info")
         }else{
-          res.redirect("/game/:" + name)
+          res.redirect("/game/" + name)
         }
       })
       });
